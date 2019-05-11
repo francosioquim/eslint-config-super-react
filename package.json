@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-super-react",
+  "version": "1.0.0",
+  "description": "Eslint rules for super-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franco Sioquim",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 5"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-node": "^9.0.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-react-hooks": "^1.6.0",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "super react"
+  ],
+  "dependencies": {}
+}
