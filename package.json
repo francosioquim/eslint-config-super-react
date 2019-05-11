@@ -9,9 +9,7 @@
   "author": "Franco Sioquim",
   "license": "ISC",
   "peerDependencies": {
-    "eslint": ">= 5"
-  },
-  "devDependencies": {
+    "eslint": ">= 5",
     "eslint-config-prettier": "^4.2.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-node": "^9.0.1",
