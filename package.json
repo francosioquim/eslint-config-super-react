@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-superreact",
+  "name": "eslint-config-super-react",
   "version": "1.0.2",
   "description": "Eslint rules for super-react",
   "main": "index.js",
