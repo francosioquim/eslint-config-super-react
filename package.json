@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-super-react",
+  "name": "eslint-config-hyper-react",
   "version": "1.0.2",
-  "description": "Eslint rules for super-react",
+  "description": "Eslint rules for hyper-react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
