@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hyper-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eslint rules for hyper-react",
   "main": "index.js",
   "scripts": {
